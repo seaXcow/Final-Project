@@ -1,0 +1,30 @@
+﻿body 
+{
+    
+}
+.solidborder
+{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+.solidline
+{
+    border-top: 1px solid black;
+
+}
+.zero
+{
+     height:0px;
+}
+table
+{
+border-collapse:collapse;
+}
+table, td, th
+{
+border:1px solid green;
+text-align:center;
+color: Yellow;
+}

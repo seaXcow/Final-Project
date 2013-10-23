@@ -1,0 +1,10 @@
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\obj\Debug\LAHCWEBDEEP.Resources.resources
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\bin\LAHCWEBDEEP.dll
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\bin\LAHCWEBDEEP.pdb
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\bin\LAHCWEBDEEP.xml
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\obj\Debug\LAHCWEBDEEP.dll
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\obj\Debug\LAHCWEBDEEP.xml
+C:\Users\cenete\Documents\Visual Studio 2010\Projects\LAHCWEBDEEP\LAHCWEBDEEP\obj\Debug\LAHCWEBDEEP.pdb
